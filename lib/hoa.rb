@@ -9,7 +9,7 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   arrayUpdated = BASE_HOA
-  arrayUpdated[show] =+ name
+  arrayUpdated[show] = name
   
   arrayUpdated
 end
