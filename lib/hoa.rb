@@ -10,6 +10,4 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   arrayUpdated = BASE_HOA
   arrayUpdated[show].push(name)
-  
-  arrayUpdated
 end
